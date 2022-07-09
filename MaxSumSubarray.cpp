@@ -1,5 +1,6 @@
 class Solution{   
 public:
+    // sliding window
     long long maximumSumSubarray(int K, vector<int> &Arr , int N){
        int i=0; 
        int j=0;
